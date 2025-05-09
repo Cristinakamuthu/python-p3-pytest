@@ -1,2 +1,3 @@
 def return_not_none():
-    return None
+    return "I'm not None!"
+return_not_none()
